@@ -11,7 +11,7 @@
 
 ### 目录介绍
 
-- [第一章：培养 Pythonic 思维](./0.培养Pythonic思维.md)
+- [第一章：培养 Pythonic 思维（更新中）](./0.培养Pythonic思维.md)
   - 查询自己使用的Python版本
   - 遵循PEP8风格指南
   - 了解bytes与str的区别
